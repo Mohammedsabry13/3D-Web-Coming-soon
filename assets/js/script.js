@@ -1,6 +1,9 @@
 /**
- * Gravity - Creative Digital Solutions
- * Unified JavaScript: Section Navigation, Hero Slides, Options Panel, Three.js Sphere, Forms
+ * ALFA HUBS - CUSTOM JAVASCRIPT
+ * @author Mohammed Sabry (Mohammedsabry13)
+ * @github https://github.com/Mohammedsabry13
+ * @copyright 2026 Mohammed Sabry. All rights reserved.
+ * Pure JavaScript with Bootstrap 5
  */
 document.addEventListener("DOMContentLoaded", () => {
   "use strict";

@@ -1,5 +1,9 @@
 # Gravity — Creative Digital Agency Template
 
+⚠️ This template was originally created by Mohammed Sabry
+credit is required: github.com/Mohammedsabry13
+______________________________________
+
 A visually striking **"Coming Soon"** / landing page template for creative digital agencies, featuring an immersive interactive 3D space sphere background powered by Three.js.
 
 ## 🛠️ Tech Stack
