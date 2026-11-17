@@ -1,5 +1,7 @@
 # Gravity — Creative Digital Agency Template
 
+![Screenshot](screenshot.png)
+
 ⚠️ This template was originally created by Mohammed Sabry
 credit is required: github.com/Mohammedsabry13
 ______________________________________
